@@ -1,0 +1,12 @@
+{
+  "name": "thingamajig",
+  "version": "1.0.0",
+  "main": "out/index.js",
+  "scripts": {
+    "start": "node_modules/.bin/tsc && node out/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
